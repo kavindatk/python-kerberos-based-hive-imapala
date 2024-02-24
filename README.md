@@ -33,7 +33,7 @@ import jaydebeapi
 import os
 import pandas as pd
 ````
-#### Define Drive and Url
+#### Define Driver and Url
 
 ```python
 url =  'jdbc:impala://<ip>:<port>/default;AuthMech=1;KrbRealm=<Relam>;KrbHostFQDN=<FQDN>;KrbServiceName=<Service>'
