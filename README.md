@@ -1,4 +1,4 @@
-# Login Kerberos Based Hive & Imapala cluster using Python
+# Login Kerberos Based Hive & Impala cluster using Python
 
 <picture>
   <img alt="kerberos logo" src="https://miro.medium.com/v2/resize:fit:1006/1*agsHkPjE9N5uC-HkrUW9mg.png" width="300" height="150">
@@ -6,7 +6,7 @@
 
 
 <picture>
-  <img alt="hive and imapala logo" src="https://miro.medium.com/v2/resize:fit:819/1*EUfJs-gRAsUcrkJ7giXgww.png" width="300" height="150">
+  <img alt="hive and impala logo" src="https://miro.medium.com/v2/resize:fit:819/1*EUfJs-gRAsUcrkJ7giXgww.png" width="300" height="150">
 </picture>
 
 <picture>
